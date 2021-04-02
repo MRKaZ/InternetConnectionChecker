@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internet Connection Checker</string>
+    <string name="connection_state">Cennection State</string>
+    <string name="connection_type">Connection Type</string>
+
+    <string name="connection_available">Connection Available!</string>
+    <string name="connection_lost">Connection Lost!</string>
+    <string name="turn_off_or_turn_on_internet_to_check">Turn off or turn on internet to check!</string>
+</resources>
